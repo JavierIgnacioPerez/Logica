@@ -1,1 +1,1 @@
-Logica
+Respaldo de los laboratorios del curso Lógica y Teoría de la Computación.

@@ -1,0 +1,290 @@
+acne _ bultos dolorosos, llenos de pus que estan debajo de la superficie de la piel
+acne _ bultos grandes, solidos y dolorosos que estan debajo de la superficie de la piel
+acne _ comedones abiertos (poros abiertos)
+acne _ comedones cerrados (poros tapados)
+acne _ granos que son papulas con pus en la punta
+acne _ indigestion
+amigdalitis _ amigdalas inflamadas
+amigdalitis _ dolor al tragar
+amigdalitis _ dolor de cabeza
+amigdalitis _ dolor de garganta
+amigdalitis _ fiebre
+aneurisma aortico abdominal _ dolor abdominal
+aneurisma aortico abdominal _ dolor de espalda
+aneurisma aortico abdominal _ un pulso cerca del ombligo
+aneurisma de la aorta toracica _ dolor de espalda
+aneurisma de la aorta toracica _ dolor en el pecho
+aneurisma de la aorta toracica _ falta de aire
+aneurisma de la aorta toracica _ ronquera
+aneurisma de la aorta toracica _ tos
+angina de pecho _ dolor en el cuello
+angina de pecho _ dolor en el pecho
+angina de pecho _ dolor en la espalda
+angina de pecho _ dolor en la mandibula
+angina de pecho _ dolor en los brazos
+angina de pecho _ dolor en los hombros
+angina de pecho _ dolor o molestia en el pecho
+angina de pecho _ falta de aire
+angina de pecho _ fatiga
+angina de pecho _ mareos
+angina de pecho _ nauseas
+angina de pecho _ sudoracion
+arritmia cardiaca _ aleteo en el pecho
+arritmia cardiaca _ ansiedad
+arritmia cardiaca _ dolor en el pecho
+arritmia cardiaca _ falta de aire
+arritmia cardiaca _ fatiga
+arritmia cardiaca _ latidos cardiacos acelerados
+arritmia cardiaca _ latidos cardiacos lentos
+arritmia cardiaca _ sudoracion
+artritis reumatoide _ articulaciones sensibles a la palpacion, calientes e hinchadas
+artritis reumatoide _ cansancio
+artritis reumatoide _ fiebre
+artritis reumatoide _ perdida del apetito
+artritis reumatoide _ rigidez
+bronquitis _ dolor en el pecho
+bronquitis _ escalofrios
+bronquitis _ fiebre
+bronquitis _ mucosidad
+bronquitis _ tos
+cancer de pulmon _ adelgazamiento
+cancer de pulmon _ dificultad para respirar
+cancer de pulmon _ dolor de cabeza
+cancer de pulmon _ dolor en el pecho
+cancer de pulmon _ dolor en los huesos.
+cancer de pulmon _ tos
+candidosis oral _ agrietamiento y enrojecimiento en las comisuras de la boca
+candidosis oral _ ardor de boca
+candidosis oral _ dificultad para comer o tragar
+candidosis oral _ enrojecimiento boca
+candidosis oral _ enrojecimiento, irritacion y dolor debajo de las dentaduras
+candidosis oral _ inflamacion en la boca
+candidosis oral _ lesiones blancas cremosas en la boca
+candidosis oral _ perdida del gusto
+candidosis oral _ sangrado leve
+candidosis oral _ sensacion algodonosa en la boca
+candidosis vaginal _ dolores vaginales
+candidosis vaginal _ inflamacion de la vulva
+candidosis vaginal _ picazon e irritacion de la vagina y la vulva
+candidosis vaginal _ sarpullido vaginal
+candidosis vaginal _ secrecion vaginal acuosa
+candidosis vaginal _ secrecion vaginal espesa, blanca y sin olor
+candidosis vaginal _ sensacion de ardor, especialmente durante las relaciones sexuales o al orinar
+celiaquia _ diarrea
+celiaquia _ dolor abdominal
+celiaquia _ estrenimiento
+celiaquia _ fatiga
+celiaquia _ gases
+celiaquia _ hinchazon
+celiaquia _ nauseas
+celiaquia _ perdida de peso
+celiaquia _ vomitos
+colitis ulserosa _ adelgazamiento
+colitis ulserosa _ diarrea con sangre o pus
+colitis ulserosa _ dolor en el recto
+colitis ulserosa _ dolor y colicos abdominales
+colitis ulserosa _ fatiga
+colitis ulserosa _ fiebre
+colitis ulserosa _ incapacidad para defecar a pesar de la urgencia
+colitis ulserosa _ necesidad urgente de defecar
+colitis ulserosa _ problemas de crecimiento en ninos
+colitis ulserosa _ sangrado rectal
+covid-19 _ cansancio
+covid-19 _ diarrea
+covid-19 _ dificultad para respirar
+covid-19 _ dolor de cabeza
+covid-19 _ dolor de garganta
+covid-19 _ fiebre
+covid-19 _ goteo de la nariz
+covid-19 _ tos
+covid-19 _ vomitos
+dermatitis atopica _ manchas de color rojo a marron grisaceo
+dermatitis atopica _ picazon
+dermatitis atopica _ piel en carne viva, sensible e inflamada por rascarse
+dermatitis atopica _ piel engrosada, agrietada, escamosa
+dermatitis atopica _ piel seca
+dermatitis atopica _ pequenos bultos, que pueden perder liquido y cubrirse con una costra al rascarse
+difteria _ dificultad para respirar
+difteria _ fiebre
+difteria _ ronquedad
+difteria _ tos
+enfermedad de addison _ ansias de consumir sal
+enfermedad de addison _ bajo nivel de azucar en la sangre
+enfermedad de addison _ caida del vello corporal o disfuncion sexual en las mujeres
+enfermedad de addison _ depresion u otros sintomas conductuales
+enfermedad de addison _ desmayo
+enfermedad de addison _ diarrea
+enfermedad de addison _ dolor abdominal
+enfermedad de addison _ dolor articular
+enfermedad de addison _ dolor muscular
+enfermedad de addison _ fatiga extrema
+enfermedad de addison _ irritabilidad
+enfermedad de addison _ nauseas
+enfermedad de addison _ oscurecimiento de la piel
+enfermedad de addison _ perdida de peso
+enfermedad de addison _ perdida del apetito
+enfermedad de addison _ presion arterial baja
+enfermedad de addison _ vomitos
+enfisema pulmonar _ coloracion azul en unas y labios
+enfisema pulmonar _ dificultad para respirar
+faringitis _ dolor en el pecho
+faringitis _ fatiga
+faringitis _ fiebre
+faringitis _ soplo cardiaco
+foliculitis _ ampollas
+foliculitis _ bultos rojos o espinillas cabeciblancas que se forman alrededor de los foliculos pilosos
+foliculitis _ picazon o ardor en la piel
+foliculitis _ sensibilidad en la piel
+foliculitis _ un gran bulto o protuberancia hinchados
+gonorrea _ aumento del flujo vaginal
+gonorrea _ dolor abdominal
+gonorrea _ dolor al orinar
+gonorrea _ dolor al orinar
+gonorrea _ dolor o hinchazon en un testiculo
+gonorrea _ sangrado vaginal
+gonorrea _ secrecion similar al pus de la punta del pene
+herpes genital _ ampollas
+herpes genital _ costras en la piel
+herpes genital _ dolor
+herpes genital _ picazon
+herpes genital _ protuberancias rojas pequenas
+herpes genital _ ulceras
+herpes labial _ ampollas
+herpes labial _ costras
+herpes labial _ dolor de cabeza
+herpes labial _ dolor de garganta
+herpes labial _ dolor muscular
+herpes labial _ encias erosionadas
+herpes labial _ fiebre
+herpes labial _ ganglios linfaticos inflamados
+herpes labial _ hormigueo
+herpes labial _ picazon
+herpes labial _ supuracion
+hipertension pulmonar _ coloracion azul en unas y labios
+hipertension pulmonar _ desmayos
+hipertension pulmonar _ dificultad para respirar
+hipertension pulmonar _ dolor en el pecho
+hipertension pulmonar _ fatiga
+hipertension pulmonar _ hinchazon en los tobillos y las piernas
+hipertension pulmonar _ mareos
+hipertension pulmonar _ pulso acelerado
+histoplasmosis _ dolor de cabeza
+histoplasmosis _ dolor muscular
+histoplasmosis _ escalofrios
+histoplasmosis _ fatiga
+histoplasmosis _ fiebre
+histoplasmosis _ molestia en el pecho
+histoplasmosis _ tos seca
+insuficiencia cardiaca _ aumento de peso muy rapido por retencion de liquido
+insuficiencia cardiaca _ dificultad para concentrarse o menor estado de alerta
+insuficiencia cardiaca _ dolor en el pecho
+insuficiencia cardiaca _ falta de aire
+insuficiencia cardiaca _ falta de apetito
+insuficiencia cardiaca _ fatiga y debilidad
+insuficiencia cardiaca _ hinchazon del abdomen
+insuficiencia cardiaca _ hinchazon en los tobillos y las piernas
+insuficiencia cardiaca _ latidos del corazon acelerados
+insuficiencia cardiaca _ mayor necesidad de orinar por la noche
+insuficiencia cardiaca _ menor capacidad para hacer ejercicio
+insuficiencia cardiaca _ nauseas
+insuficiencia cardiaca _ sibilancia constantes con flema blanca o rosa manchada de sangre
+insuficiencia cardiaca _ tos
+lupus _ coloracion azul en unas y labios
+lupus _ desorientacion
+lupus _ dolor articular
+lupus _ dolor de cabeza
+lupus _ dolor en el pecho
+lupus _ erupcion
+lupus _ falta de aire
+lupus _ fatiga
+lupus _ fiebre
+lupus _ fotosensibilidad
+lupus _ ojos secos
+lupus _ perdida de memoria
+malformacion arteriovenosa _ dolor de cabeza
+malformacion arteriovenosa _ nauseas
+malformacion arteriovenosa _ perdida del conocimiento
+malformacion arteriovenosa _ perdida progresiva de la funcion neurologica
+malformacion arteriovenosa _ sangrado
+malformacion arteriovenosa _ convulsiones
+malformacion arteriovenosa _ vomitos
+narcolepsia _ alucinaciones
+narcolepsia _ cambios en el ciclo de sueno con movimiento rapido de ojos (rem)
+narcolepsia _ paralisis del sueno
+narcolepsia _ perdida repentina del tono muscular
+narcolepsia _ somnolencia excesiva durante el dia
+neumonia _ dolor en el pecho
+neumonia _ fatiga
+neumonia _ fiebre
+neumonia _ mucosidad
+neumonia _ tos
+neumonia _ vomitos
+psoriasis _ ardor
+psoriasis _ articulaciones inflamadas y rigidas
+psoriasis _ dolor
+psoriasis _ manchas rojas en la piel cubiertas con escamas gruesas y plateadas
+psoriasis _ pequenos puntos escamados
+psoriasis _ picazon
+psoriasis _ piel seca
+psoriasis _ unas engrosadas, picadas o acanaladas
+rinitis _ congestion nasal
+rinitis _ estornudos
+rinitis _ mucosidad
+rinitis _ tos
+rinosinusitis _ dolor de cabeza
+rinosinusitis _ dolor de garganta
+rinosinusitis _ mucosidad
+rinosinusitis _ perdida de olfato
+rinosinusitis _ tos
+sida _ diarrea
+sida _ dolor articular
+sida _ dolor de cabeza
+sida _ dolor de garganta
+sida _ dolor muscular
+sida _ erupcion
+sida _ fiebre
+sida _ ganglios linfaticos inflamados
+sida _ llagas dolorosas en la boca
+sida _ perdida de peso
+sida _ sudoracion nocturna
+sida _ tos
+sindrome coronario agudo _ aturdimiento, mareos o desmayos
+sindrome coronario agudo _ dificultad para respirar
+sindrome coronario agudo _ dolor que se extiende desde el pecho hasta los hombros, los brazos, la parte superior del abdomen, la espalda, el cuello o la mandibula
+sindrome coronario agudo _ dolor toracico
+sindrome coronario agudo _ fatiga inusual o inexplicable
+sindrome coronario agudo _ indigestion
+sindrome coronario agudo _ nauseas
+sindrome coronario agudo _ sensacion de inquietud o aprension
+sindrome coronario agudo _ sudoracion
+sindrome coronario agudo _ vomitos
+soplos cardiacos _ agrandamiento de las venas del cuello
+soplos cardiacos _ agrandamiento del higado
+soplos cardiacos _ aumento de peso repentino
+soplos cardiacos _ coloracion azul en unas y labios.
+soplos cardiacos _ dolor en el pecho
+soplos cardiacos _ falta de aire
+soplos cardiacos _ mareos
+soplos cardiacos _ sudoracion
+soplos cardiacos _ tos cronica
+soplos cardiacos _ desmayo
+tosferina _ congestion nasal
+tosferina _ fiebre
+tosferina _ mucosidad
+tosferina _ ojos llorosos
+tosferina _ tos
+urticaria _ ronchas grandes
+urticaria _ ronchas pequenas
+urticaria _ ronchas redondas, ovaladas o en forma de gusano
+urticaria _ ronchas rojizas
+urticaria _ una comezon de leve a intensa
+urticaria cronica _ hinchazon dolorosa de los labios, los parpados, y el interior de la garganta
+urticaria cronica _ intensifican sintomas con desencadenantes como calor, ejercicio y estres
+urticaria cronica _ picazon, que puede ser intensa
+urticaria cronica _ ronchas
+urticaria cronica _ ronchas rojas o del color de la piel
+urticaria cronica _ sintomas continuan y reaparecen con frecuencia
+urticaria por frio _ hinchazon de las manos al agarrar objetos frios
+urticaria por frio _ hinchazon de los labios al consumir alimentos y bebidas frios
+urticaria por frio _ ronchas rojizas
+urticaria por frio _ un empeoramiento de la reaccion a medida que la piel se calienta
